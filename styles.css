@@ -1,0 +1,122 @@
+* { 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header li {
+    display: inline;
+    font-size: 14.5px;
+}
+
+header ul{
+    text-align: right;
+}
+header a {
+    padding: .5em;
+    color: black;
+    text-decoration: none;
+}
+
+header ul a  {
+    color: black;
+}
+
+header li img {
+    vertical-align: baseline;
+    margin-bottom: -7px;
+}
+
+header li button {
+    border: 1px solid;
+    border-radius: 10%;
+    color:white;
+    background-color:#4285f4;
+    padding: 7px 13px;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+header a:hover {
+    color: gray;
+    text-decoration-line: underline;
+}
+
+section div {
+    text-align: center
+}
+
+section div input {
+   width: 45%;
+   margin-left: 30px;
+   height: 24px;
+   border-radius: 1%;
+   border: 1px;
+   border-style: solid;
+   border-color: lightgray;
+}
+
+section div button {
+    color: #5f6368;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    background-color: #f2f2f2;
+}
+
+section div button:hover {
+    color: black;
+}
+
+section div span {
+    font-size: 14px;
+    padding-right: 5px;
+}
+
+section div a {
+    font-size: 14px;
+    padding-right: 5px;
+    text-decoration: none;
+    color: #1a0dab;
+}
+
+section div a {
+    display: inline;
+}
+
+section div a:hover {
+    text-decoration-line: underline;
+}
+
+footer {
+    background-color: #f2f2f2;
+    
+}
+
+footer div span{
+    display: inline-block;
+    padding: .9em;
+    color: #5f6368;
+}
+
+footer span {
+    list-style-type: none;
+    display: inline;
+}
+
+footer a {
+    text-decoration-line: none;
+    color: #5f6368;
+    font-size: 13px;
+    padding-right: 9px;
+  
+}
+
+footer a:hover {
+    text-decoration-line: underline;
+}
+
+
+
